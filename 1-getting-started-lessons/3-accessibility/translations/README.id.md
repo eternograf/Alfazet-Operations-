@@ -114,8 +114,8 @@ Bayangkan halaman berikut:
 
 | Produk       | Deskripsi        | Pesan        |
 | ------------ | ---------------- | ------------ |
-| Widget       | `[Deskripsi]('#') | [Pesan]('#')` |
-| Widget super | `[Deskripsi]('#') | [Pesan]('#')` |
+| Widget       | `[Deskripsi]('#')` | `[Pesan]('#')` |
+| Widget super | `[Deskripsi]('#')` | `[Pesan]('#')` |
 
 Dalam contoh ini, menduplikasi teks deskripsi dan urutan masuk akal bagi seseorang yang menggunakan browser. Namun, seseorang yang menggunakan pembaca layar hanya akan mendengar kata *deskripsi* dan *pesan* diulang tanpa konteks.
 

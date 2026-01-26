@@ -112,8 +112,8 @@ CSS는 페이지에 있는 모든 요소의 형태를 완벽하게 제어합니�
 
 | Product      | Description        | Order        |
 | ------------ | ------------------ | ------------ |
-| Widget       | `[Description]('#') | [Order]('#')` |
-| Super widget | `[Description]('#') | [Order]('#')` |
+| Widget       | `[Description]('#')` | `[Order]('#')` |
+| Super widget | `[Description]('#')` | `[Order]('#')` |
 
 이 예시에서는 설명 텍스트와 순서를 복사하는 것이 브라우저를 사용하는 사람에게 의미가 있습니다. 그러나 스크린 리더를 사용하는 사람은 문맥없이 반복되는 *설명* 및 *순서* 라는 단어만 듣게됩니다.
 
