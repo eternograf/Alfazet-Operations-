@@ -16,6 +16,6 @@ In questo progetto si imparerà come costruire una banca immaginaria. Queste lez
 
 Queste lezioni sono state scritte con il :hearts: da [Yohan Lasorsa](https://twitter.com/sinedied).
 
-Se interessati a imparare come costruire l' [API del server](../../api/tranlations/README.it.md) utilizzata in queste lezioni, è possibile seguire [questa serie di video](https://aka.ms/NodeBeginner) (in particolare i video da 17 a 21).
+Se interessati a imparare come costruire l' [API del server](../api/translations/README.it.md) utilizzata in queste lezioni, è possibile seguire [questa serie di video](https://aka.ms/NodeBeginner) (in particolare i video da 17 a 21).
 
 Si può anche dare un'occhiata a [questo tutorial interattivo di apprendimento](https://aka.ms/learn/express-api).

@@ -118,8 +118,8 @@ Imagine a seguinte página:
 
 | Produto      | Descrição        | Pedido        |
 | ------------ | ---------------- | ------------- |
-| Widget       | [Descrição]('#') | [Pedido]('#') |
-| Super widget | [Descrição]('#') | [Pedido]('#') |
+| Widget       | `[Descrição]('#')` | `[Pedido]('#')` |
+| Super widget | `[Descrição]('#')` | `[Pedido]('#')` |
 
 Neste exemplo, duplicar o texto de descrição e ordem faz sentido para alguém que usa um navegador. No entanto, alguém usando um leitor de tela ouviria apenas as palavras *descrição* e *pedido* repetidas sem contexto.
 

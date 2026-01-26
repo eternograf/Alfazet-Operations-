@@ -1,0 +1,20 @@
+# Exclude Azure Static Web Apps quiz URLs (these are valid but return 404 when accessed by the link checker)
+https://ashy-river-0debb7803.1.azurestaticapps.net/*
+
+# Exclude sites that block bot traffic (403 errors)
+https://www.researchgate.net/*
+https://accessibility.umn.edu/*
+https://codepen.io/*
+https://portal.azure.com/*
+
+# Exclude GitHub Lab URLs (service discontinued)
+https://lab.github.com/*
+
+# Exclude sites with certificate issues
+https://www.co2snal.com/*
+
+# Exclude open.vscode.dev (may have rate limiting)
+https://open.vscode.dev/*
+
+# Exclude URLs that timeout frequently
+https://www.gnu.org/software/bash/manual/html_node/index.html

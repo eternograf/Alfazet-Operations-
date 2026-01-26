@@ -112,8 +112,8 @@ Bayangkan halaman berikut:
 
 | Produk       | Penerangan        | Pesanan        |
 | ------------ | ----------------- | -------------- |
-| Widget       | [Penerangan]('#') | [Pesanan]('#') |
-| Super widget | [Penerangan]('#') | [Pesanan]('#') |
+| Widget       | `[Penerangan]('#')` | `[Pesanan]('#')` |
+| Super widget | `[Penerangan]('#')` | `[Pesanan]('#')` |
 
 Dalam contoh ini, mendua teks keterangan dan urutan masuk akal bagi seseorang yang menggunakan penyemak imbas. Walau bagaimanapun, seseorang yang menggunakan pembaca skrin hanya akan mendengar kata-kata *Penerangan* dan *Pesanan* diulang tanpa konteks.
 

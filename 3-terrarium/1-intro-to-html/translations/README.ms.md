@@ -106,7 +106,7 @@ Sekarang, anda boleh mula membina halaman anda. Biasanya, anda menggunakan tag `
 
 Satu tag html yang tidak memerlukan tag penutup adalah tag `<img>`, kerana ia memiliki elemen `src` yang berisi semua informasi yang diperlukan halaman untuk membuat item.
 
-Buat folder di aplikasi anda yang disebut `gambar` dan di dalamnya, tambahkan semua gambar di [folder kod sumber](../solution/images); (terdapat 14 gambar tumbuhan).
+Buat folder di aplikasi anda yang disebut `gambar` dan di dalamnya, tambahkan semua gambar di [folder kod sumber](../../solution/images); (terdapat 14 gambar tumbuhan).
 
 ### Tugas
 

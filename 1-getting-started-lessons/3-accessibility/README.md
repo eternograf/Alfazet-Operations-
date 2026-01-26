@@ -118,10 +118,10 @@ As an added bonus for ensuring your site is accessible to all, you'll help searc
 
 Imagine the following page:
 
-| Product      | Description        | Order        |
-| ------------ | ------------------ | ------------ |
-| Widget       | [Description]('#') | [Order]('#') |
-| Super widget | [Description]('#') | [Order]('#') |
+| Product      | Description          | Order          |
+| ------------ | -------------------- | -------------- |
+| Widget       | `[Description]('#')` | `[Order]('#')` |
+| Super widget | `[Description]('#')` | `[Order]('#')` |
 
 In this example, duplicating the text of description and order make sense for someone using a browser. However, someone using a screen reader would only hear the words *description* and *order* repeated without context.
 
