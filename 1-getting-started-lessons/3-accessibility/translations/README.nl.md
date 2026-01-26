@@ -118,8 +118,8 @@ Stelt u de volgende pagina voor:
 
 | Product      | beschrijving        | Volgorde        |
 | ------------ | ------------------- | --------------- |
-| Widget       | [beschrijving]('#') | [Volgorde]('#') |
-| Super widget | [beschrijving]('#') | [Volgorde]('#') |
+| Widget       | `[beschrijving]('#') | [Volgorde]('#')` |
+| Super widget | `[beschrijving]('#') | [Volgorde]('#')` |
 
 In dit voorbeeld is het zinvol om de tekst van de beschrijving en volgorde te dupliceren voor iemand die een browser gebruikt. Iemand die een schermlezer gebruikt, hoort echter alleen de woorden *beschrijving* en *volgorde* herhaald zonder context.
 

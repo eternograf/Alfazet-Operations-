@@ -118,8 +118,8 @@ CSS は、ページ上のあらゆる要素の外観を完全に制御するこ�
 
 | Product      | Description        | Order        |
 | ------------ | ------------------ | ------------ |
-| Widget       | [Description]('#') | [Order]('#') |
-| Super widget | [Description]('#') | [Order]('#') |
+| Widget       | `[Description]('#') | [Order]('#')` |
+| Super widget | `[Description]('#') | [Order]('#')` |
 
 この例では、description と order のテキストを複製しても、ブラウザを使っている人にとっては意味があります。しかし、スクリーン・リーダーを使っている人には、文脈なしに繰り返される *description* と *order* という単語しか聞こえません。
 

@@ -118,8 +118,8 @@ Si Immagini la pagina seguente:
 
 | Prodotto         | Descrizione        | Ordine        |
 | ---------------- | ------------------ | ------------- |
-| Widget           | [Descrizione]('#') | [Ordine]('#') |
-| DMX Super Widget | [Descrizione]('#') | [Ordine]('#') |
+| Widget           | `[Descrizione]('#') | [Ordine]('#')` |
+| DMX Super Widget | `[Descrizione]('#') | [Ordine]('#')` |
 
 In questo esempio, la duplicazione del testo della descrizione e dell'ordine ha senso per qualcuno che utilizza un browser. Tuttavia, qualcuno che utilizza uno screen reader ascolterebbe solo le parole *descrizione* e *ordine* ripetute senza contesto.
 

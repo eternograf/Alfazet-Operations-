@@ -120,8 +120,8 @@ Imaginez la page suivante :
 
 | Produit      | Description        | Commande        |
 | ------------ | ------------------ | --------------- |
-| Widget       | [Description]('#') | [Commande]('#') |
-| Super widget | [Description]('#') | [Commande]('#') |
+| Widget       | `[Description]('#') | [Commande]('#')` |
+| Super widget | `[Description]('#') | [Commande]('#')` |
 
 Dans cet exemple, la duplication du texte de la description et de l'ordre a du sens pour une personne utilisant un navigateur. Cependant, une personne utilisant un lecteur d'écran n'entendrait que les mots *description* et *ordre* répétés sans contexte.
 
